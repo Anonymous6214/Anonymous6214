@@ -4,8 +4,8 @@
 
 技能: PYTHON / JS / VUE JS
 
-- 🔭 正在進行的專案: discord bot,discord bot,更多的discord bot
-- 🌱 正在學習的程式語言: python, js, vue js
+- 🔭 正在進行的專案: discord bot, minecraft plugin, minecraft mod, 更多的discord bot
+- 🌱 正在學習的程式語言: python,node js, java
 - 📫 如何聯絡我: [discord: 兔兔 (* >ω<)=3#6214] 
 
   
