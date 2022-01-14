@@ -1,8 +1,6 @@
 ### 我是誰?我在哪裡?
-#### 原來是個滿滿都是程式的世界, 然而我還對它上癮
 
-
-技能: PYTHON / JS / JAVA(正在學)
+技能: PYTHON / JS / JAVA(正在學) / 一點點css
 
 - 🔭 正在進行的專案: discord bot, minecraft plugin, minecraft mod, 更多的discord bot
 - 🌱 正在學習的程式語言: python,node js, java
