@@ -3,7 +3,7 @@
 技能: PYTHON / JS / JAVA(正在學) / 一點點css
 
 - 🔭 正在進行的專案: discord bot, minecraft plugin, minecraft mod, 更多的discord bot
-- 🌱 正在學習的程式語言: python,node js, java
+- 🌱 正在學習/擅長的程式語言: python, nodeJs, reactJs ,java, html, css
 - 📫 如何聯絡我: [discord: 兔兔 (* >ω<)=3#6214] 
 
   
