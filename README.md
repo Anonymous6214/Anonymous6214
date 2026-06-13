@@ -1,7 +1,6 @@
 ### 我是誰?我在哪裡?
 
-- 🔭 正在進行的專案: discord bot, minecraft plugin, minecraft mod, panel
-- 🌱 正在學習/擅長的程式語言: python, typescript, javascript, reactJs, java, golang, dart, html, css
+- 🌱 正在學習/擅長的程式語言: python, typescript, javascript, golang
 - 📫 如何聯絡我: [discord: ra.bb.it] 
 
   
